@@ -1,0 +1,181 @@
+iso3,country,census,D2_2024,D4,DBI_2024
+ETH,Ethiopia,2007,0.425,0.973,0.6442
+YEM,"Yemen, Rep.",2004,0.5,0.693,0.5772
+CAF,Central African Republic,2003,0.525,0.552,0.5358
+UZB,Uzbekistan,1989,0.875,0.001,0.5254
+TCD,Chad,2009,0.375,0.743,0.5222
+NGA,Nigeria,2006,0.45,0.574,0.4996
+SSD,South Sudan,2008,0.4,0.646,0.4984
+CMR,Cameroon,2005,0.475,0.381,0.4374
+HTI,Haiti,2003,0.525,0.152,0.3758
+ZMB,Zambia,2022,0.05,0.86,0.374
+SDN,Sudan,2008,0.4,0.327,0.3708
+PNG,Papua New Guinea,2024,0,0.866,0.3464
+UKR,Ukraine,2001,0.575,0.002,0.3458
+LSO,Lesotho,2016,0.2,0.555,0.342
+NER,Niger,2012,0.3,0.361,0.3244
+TZA,Tanzania,2022,0.05,0.736,0.3244
+GNQ,Equatorial Guinea,2015,0.225,0.465,0.321
+SYR,Syrian Arab Republic,2004,0.5,0.04,0.316
+AGO,Angola,2024,0,0.75,0.3
+SWZ,Eswatini,2017,0.175,0.465,0.291
+VUT,Vanuatu,2020,0.1,0.566,0.2864
+MOZ,Mozambique,2017,0.175,0.45,0.285
+UGA,Uganda,2024,0,0.678,0.2712
+PAK,Pakistan,2023,0.025,0.578,0.2462
+LAO,Lao PDR,2015,0.225,0.27,0.243
+IND,India,2011,0.325,0.109,0.2386
+ZWE,Zimbabwe,2022,0.05,0.513,0.2352
+BEN,Benin,2013,0.275,0.144,0.2226
+MWI,Malawi,2018,0.15,0.328,0.2212
+MRT,Mauritania,2024,0,0.552,0.2208
+THA,Thailand,2010,0.35,0.002,0.2108
+TTO,Trinidad and Tobago,2011,0.325,0.035,0.209
+KEN,Kenya,2019,0.125,0.331,0.2074
+GAB,Gabon,2013,0.275,0.104,0.2066
+BGD,Bangladesh,2022,0.05,0.44,0.206
+MDG,Madagascar,2018,0.15,0.262,0.1948
+TLS,Timor-Leste,2022,0.05,0.396,0.1884
+KHM,Cambodia,2019,0.125,0.267,0.1818
+CUB,Cuba,2012,0.3,0.002,0.1808
+WSM,Samoa,2021,0.075,0.331,0.1774
+HND,Honduras,2013,0.275,0.03,0.177
+BFA,Burkina Faso,2019,0.125,0.231,0.1674
+BIH,Bosnia and Herzegovina,2013,0.275,0.005,0.167
+LBR,Liberia,2022,0.05,0.337,0.1648
+GMB,"Gambia, The",2024,0,0.41,0.164
+GHA,Ghana,2021,0.075,0.294,0.1626
+FJI,Fiji,2017,0.175,0.134,0.1586
+CIV,Cote d'Ivoire,2021,0.075,0.283,0.1582
+COM,Comoros,2017,0.175,0.127,0.1558
+GIN,Guinea,2025,0,0.38,0.152
+IDN,Indonesia,2020,0.1,0.23,0.152
+PRY,Paraguay,2022,0.05,0.29,0.146
+JOR,Jordan,2015,0.225,0.02,0.143
+NPL,Nepal,2021,0.075,0.228,0.1362
+SLB,Solomon Islands,2019,0.125,0.12,0.123
+FRA,France,2016,0.2,0,0.12
+VEN,"Venezuela, RB",2021,0.075,0.187,0.1198
+MHL,Marshall Islands,2021,0.075,0.162,0.1098
+EGY,"Egypt, Arab Rep.",2017,0.175,0.006,0.1074
+BTN,Bhutan,2017,0.175,0.001,0.1054
+GTM,Guatemala,2018,0.15,0.036,0.1044
+IMN,Isle of Man,2021,0.075,0.1461,0.1034
+COL,Colombia,2018,0.15,0.032,0.1028
+NAM,Namibia,2023,0.025,0.219,0.1026
+AZE,Azerbaijan,2019,0.125,0.064,0.1006
+SEN,Senegal,2023,0.025,0.213,0.1002
+SLE,Sierra Leone,2020,0.1,0.096,0.0984
+TGO,Togo,2022,0.05,0.171,0.0984
+KIR,Kiribati,2020,0.1,0.084,0.0936
+PHL,Philippines,2020,0.1,0.082,0.0928
+VNM,Viet Nam,2019,0.125,0.039,0.0906
+RWA,Rwanda,2022,0.05,0.144,0.0876
+MLI,Mali,2022,0.05,0.133,0.0832
+ECU,Ecuador,2022,0.05,0.128,0.0812
+TUV,Tuvalu,2022,0.05,0.128,0.0812
+BWA,Botswana,2022,0.05,0.125,0.08
+TJK,Tajikistan,2020,0.1,0.042,0.0768
+ZAF,South Africa,2022,0.05,0.114,0.0756
+BLR,Belarus,2019,0.125,0,0.075
+MMR,Myanmar,2024,0,0.187,0.0748
+MEX,Mexico,2020,0.1,0.03,0.072
+BDI,Burundi,2024,0,0.165,0.066
+LCA,St. Lucia,2022,0.05,0.08,0.062
+MNG,Mongolia,2020,0.1,0.004,0.0616
+NRU,Nauru,2021,0.075,0.041,0.0614
+DOM,Dominican Republic,2022,0.05,0.078,0.0612
+NIC,Nicaragua,2024,0,0.153,0.0612
+JPN,Japan,2020,0.1,0,0.06
+OMN,Oman,2020,0.1,0,0.06
+QAT,Qatar,2020,0.1,0,0.06
+TON,Tonga,2021,0.075,0.023,0.0542
+BRB,Barbados,2021,0.075,0.013,0.0502
+BLZ,Belize,2022,0.05,0.043,0.0472
+KAZ,Kazakhstan,2021,0.075,0.003,0.0462
+MKD,North Macedonia,2021,0.075,0.002,0.0458
+BRN,Brunei Darussalam,2021,0.075,0.001,0.0454
+AND,Andorra,2021,0.075,0,0.045
+AUS,Australia,2021,0.075,0,0.045
+AUT,Austria,2021,0.075,0,0.045
+BGR,Bulgaria,2021,0.075,0,0.045
+CAN,Canada,2021,0.075,0,0.045
+HRV,Croatia,2021,0.075,0,0.045
+CYP,Cyprus,2021,0.075,0,0.045
+GRC,Greece,2021,0.075,0,0.045
+LUX,Luxembourg,2021,0.075,0,0.045
+MLT,Malta,2021,0.075,0,0.045
+PRT,Portugal,2021,0.075,0,0.045
+ROU,Romania,2021,0.075,0,0.045
+RUS,Russian Federation,2021,0.075,0,0.045
+SMR,San Marino,2021,0.075,0,0.045
+SVK,Slovak Republic,2021,0.075,0,0.045
+SVN,Slovenia,2021,0.075,0,0.045
+BRA,Brazil,2022,0.05,0.036,0.0444
+JAM,Jamaica,2022,0.05,0.02,0.038
+GUY,Guyana,2022,0.05,0.019,0.0376
+SLV,El Salvador,2024,0,0.088,0.0352
+MDV,Maldives,2022,0.05,0.012,0.0348
+KGZ,Kyrgyz Republic,2022,0.05,0.011,0.0344
+DJI,Djibouti,2024,0,0.083,0.0332
+SAU,Saudi Arabia,2022,0.05,0.008,0.0332
+ARM,Armenia,2022,0.05,0.007,0.0328
+BOL,Bolivia,2024,0,0.081,0.0324
+CRI,Costa Rica,2022,0.05,0.004,0.0316
+SRB,Serbia,2022,0.05,0.001,0.0304
+TKM,Turkmenistan,2022,0.05,0.001,0.0304
+HUN,Hungary,2022,0.05,0,0.03
+IRL,Ireland,2022,0.05,0,0.03
+PAN,Panama,2023,0.025,0.033,0.0282
+TCA,Turks and Caicos Islands,2023,0.025,0.008,0.0182
+MNE,Montenegro,2023,0.025,0.006,0.0174
+URY,Uruguay,2023,0.025,0.002,0.0158
+NZL,New Zealand,2023,0.025,0,0.015
+ARE,United Arab Emirates,2023,0.025,0,0.015
+PER,Peru,2025,0,0.036,0.0144
+MAR,Morocco,2024,0,0.031,0.0124
+LKA,Sri Lanka,2024,0,0.028,0.0112
+SUR,Suriname,2024,0,0.017,0.0068
+GEO,Georgia,2024,0,0.015,0.006
+IRQ,Iraq,2024,0,0.012,0.0048
+CHL,Chile,2024,0,0.006,0.0024
+TUN,Tunisia,2024,0,0.001,4e-04
+AFG,Afghanistan,,,0.577,
+ALB,Albania,,,0.016,
+DZA,Algeria,,,0.004,
+ARG,Argentina,,,0.003,
+BHR,Bahrain,,,0,
+BEL,Belgium,,,0,
+CPV,Cabo Verde,,,0.086,
+COG,"Congo, Rep.",,,0.041,
+CZE,Czechia,,,0,
+COD,"Congo, Dem. Rep.",,,0.599,
+DNK,Denmark,,,0,
+EST,Estonia,,,0,
+FIN,Finland,,,0,
+DEU,Germany,,,0,
+GNB,Guinea-Bissau,,,0.54,
+ISL,Iceland,,,0,
+IRN,"Iran, Islamic Rep.",,,0.014,
+ISR,Israel,,,0,
+ITA,Italy,,,0,
+PRK,"Korea, Dem. People's Rep.",,,0,
+LVA,Latvia,,,0,
+LBN,Lebanon,,,0.011,
+LIE,Liechtenstein,,,0,
+LTU,Lithuania,,,0,
+MDA,Moldova,,,0.004,
+MCO,Monaco,,,0,
+NLD,Netherlands,,,0,
+NOR,Norway,,,0,
+POL,Poland,,,0,
+STP,Sao Tome and Principe,,,0.014,
+SGP,Singapore,,,0.001,
+SOM,"Somalia, Fed. Rep.",,,0.941,
+ESP,Spain,,,0,
+SWE,Sweden,,,0,
+CHE,Switzerland,,,0,
+TUR,Turkiye,,,0.016,
+GBR,United Kingdom,,,0,
+USA,United States,,,0,
+PSE,West Bank and Gaza,,,0.008,
