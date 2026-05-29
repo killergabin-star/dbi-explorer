@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Demographic Blindness Index (DBI): Annual Country Panel, 2000-2024"
+abstract: >-
+  The Demographic Blindness Index (DBI) is a country-level measure of a state's
+  capacity to see its own population for public administration. It is the composite
+  DBI = 0.60 * D2 + 0.40 * D4, where D2 is census staleness ((year - last census)/40,
+  capped to [0,1], UNSD) and D4 is the birth-registration shortfall (1 - registration
+  rate, UNICEF), both on [0,1] so the index lies in [0,1] (0 = sees population well,
+  1 = near-total blindness). This release provides a 100-country annual panel covering
+  2000-2024 (1,227 country-year observations) with Monte-Carlo 90% uncertainty bands,
+  continuous with a validated 46-country Sub-Saharan African cross-section.
+type: dataset
+version: "1.0.0"
+date-released: "2026-05-29"
+license: CC-BY-4.0
+authors:
+  - family-names: "Kilama"
+    given-names: "Eric Gabin"
+keywords:
+  - "demographic blindness"
+  - "civil registration and vital statistics"
+  - "CRVS"
+  - "census staleness"
+  - "birth registration"
+  - "state capacity"
+  - "statistical capacity"
+  - "composite index"
+  - "Sub-Saharan Africa"
+  - "fiscal allocation"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXXX"
+    description: "Zenodo DOI for version 1.0.0 (TODO: insert on deposit)."
+repository-artifact: "https://doi.org/10.5281/zenodo.XXXXXXX"
+references:
+  - type: data
+    title: "Census archive (year of last census)"
+    authors:
+      - name: "United Nations Statistics Division (UNSD)"
+    notes: "Source for the D2 census-staleness component."
+  - type: data
+    title: "Birth registration completeness"
+    authors:
+      - name: "UNICEF"
+    notes: "Source for the D4 birth-registration-shortfall component."
